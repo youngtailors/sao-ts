@@ -1,0 +1,25 @@
+{
+  "name": "sao-ts",
+  "version": "0.0.0",
+  "description": "Scaffold out a Typescript project.",
+  "repository": {
+    "url": "dacsang97/sao-ts",
+    "type": "git"
+  },
+  "author": "Evan N<dacsang97@gmail.com> (https://procolla.com)",
+  "license": "MIT",
+  "files": [
+    "saofile.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "sao": "^1.0.0"
+  }
+}
