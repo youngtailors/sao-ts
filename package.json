@@ -1,6 +1,6 @@
 {
   "name": "sao-ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Scaffold out a Typescript project.",
   "repository": {
     "url": "dacsang97/sao-ts",
