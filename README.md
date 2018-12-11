@@ -21,7 +21,7 @@ sao ts my-project
 ### From git
 
 ```bash
-sao YoungTailors/sao-ts my-project
+sao youngtailors/sao-ts my-project
 ```
 
 ## License

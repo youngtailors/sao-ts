@@ -1,9 +1,9 @@
 {
   "name": "sao-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold out a Typescript project.",
   "repository": {
-    "url": "dacsang97/sao-ts",
+    "url": "youngtailors/sao-ts",
     "type": "git"
   },
   "author": "Evan N<dacsang97@gmail.com> (https://procolla.com)",
