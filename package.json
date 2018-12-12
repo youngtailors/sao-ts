@@ -1,6 +1,6 @@
 {
   "name": "sao-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Scaffold out a Typescript project.",
   "repository": {
     "url": "youngtailors/sao-ts",
@@ -10,7 +10,8 @@
   "license": "MIT",
   "files": [
     "saofile.js",
-    "template"
+    "template",
+    "lib"
   ],
   "scripts": {
     "test": "ava"
