@@ -29,14 +29,6 @@ module.exports = {
         validate: v => /.+@.+/.test(v),
       },
       {
-        name: 'website',
-        message: 'The URL of your website',
-        default({ username }) {
-          return `github.com/${username}`
-        },
-        store: true,
-      },
-      {
         name: 'eslint',
         message: 'Choose an ESLint tool',
         type: 'list',
